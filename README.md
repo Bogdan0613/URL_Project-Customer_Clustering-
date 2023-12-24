@@ -21,8 +21,7 @@ The original dataset contains 1000 entries with 20 categorical/symbolic attribut
 
 ## Your assignment (points in brackets):
 
-     Analyze and clean the data
-        How many rows and columns and which data types?
+     Analyze and clean the data. How many rows and columns and which data types?
      Encode and normalize the data
      Perform PCA and t-SNE to visualize data
      Find clusters by using k-means, Hierarchical Clustering, and DBSCAN
