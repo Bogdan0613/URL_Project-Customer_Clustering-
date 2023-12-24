@@ -1,2 +1,2 @@
-# URL_Project-Customer_Clustering-
+# URL_Project_Customer_Clustering
 Midterm Clustering Project
