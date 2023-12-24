@@ -19,7 +19,7 @@ The original dataset contains 1000 entries with 20 categorical/symbolic attribut
     Duration (numeric, in month)
     Purpose (text: car, furniture/equipment, radio/TV, domestic appliances, repairs, education, business, vacation/others)
 
-## Your assignment (points in brackets):
+## Your assignment:
 
      Analyze and clean the data. How many rows and columns and which data types?
      Encode and normalize the data
