@@ -5,7 +5,7 @@ About the Dataset: ./german_credit_data.csv
 
 ## Context
 
-The original dataset contains 1000 entries with 20 categorical/symbolic attributes. In this dataset, each entry represents a person who takes credit from a bank. Each person is classified as good or bad credit risks according to the set of attributes.
+The original dataset contains 1000 entries with 9 categorical/symbolic attributes. In this dataset, each entry represents a person who takes credit from a bank. Each person is classified as good or bad credit risks according to the set of attributes.
 
 ## Content
 
