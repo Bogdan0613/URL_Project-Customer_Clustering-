@@ -27,3 +27,4 @@ The original dataset contains 1000 entries with 9 categorical/symbolic attribute
      Find clusters by using k-means, Hierarchical Clustering, and DBSCAN
      Explain your results
 <img width="1126" alt="Screenshot 2024-01-03 at 17 11 12" src="https://github.com/Bogdan0613/URL_Project-Customer_Clustering-/assets/90571280/c2e8b15f-8860-41d7-8688-8896cd9aaa40">
+<img width="1068" alt="Screenshot 2024-01-03 at 17 32 42" src="https://github.com/Bogdan0613/URL_Project-Customer_Clustering-/assets/90571280/86d27850-d287-4696-99ed-ec4e7cc2da9e">
